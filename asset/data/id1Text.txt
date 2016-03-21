@@ -1,0 +1,103 @@
+<p dir="ltr"><span>As we marvel at the latest gadgets, technology is already working behind the
+
+scenes to bring us the &lsquo;Next Big Thing&rsquo;. It has a sly habit of developing rapidly,
+
+but never making leaps so big we stop to think about where it is all headed. Like a toad in a
+
+slowly heating bath of water, we might not know when are getting boiled until it is too late. In
+
+some areas, like medicine, tough codes of ethics force researchers to think before they
+
+innovate, but outside this bubble of hyper­self­awareness, the advent of new technology, like AI,
+
+sets the pace of public debate. This afterthought approach leads us into hot water, and as with
+
+most of humanity&rsquo;s inventions, misuse of new technology inevitably leads to conflict of
+
+some sort. To avoid these problems, thought must be paid to the legal status of these
+
+developments long before we are buying them off the shelves.</span></p>
+
+<p dir="ltr"><span><img src="asset/photos/PolicyBrain.png" align="left" hspace="20" alt="" /></span></p>
+
+<br><br><p dir="ltr"><span>For example, an increasing number of civilian drones and our steady
+
+progress towards the driverless car present more immediate problems. The first remote
+
+controlled drone saw daylight 100 years ago across the English Channel, yet even now
+
+we&rsquo;re still waiting for a government strategy, promised in late 2016, to improve drone
+
+safety in the UK. There are now models on the market that can carry over ten kilograms and fly
+
+for more than thirty minutes. It is no leap of faith to imagine these causing havoc in the wrong
+
+hands. What might AI augmentation mean for drones? It is a topic that has </span><span>been
+
+heavily opposed</span><span> in a military context, with celebrated physicist Stephen Hawking
+
+signing an open letter objecting to it, but the debate on civilian usage has barely
+
+begun.</span></p><br><br><br><br><br>
+
+<p dir="ltr"><span><img src="asset/photos/Old_brain.png" align="right" hspace="20" alt="" /></span></p>
+
+<p dir="ltr"><span>AI in the broad sense &nbsp;is already present in driverless vehicles. The
+
+legislation we have in place for driverless cars seems reasonably developed by comparison with
+
+drones. The insurance system is willing to cover them. They can be legally tested on
+
+Britain&rsquo;s roads, with one site nearby at Milton Keynes. The government is envisioning a
+
+future where driverless cars enable all those who currently do not have a license ­ including the
+
+infirm, children and a third of women ­ to travel freely. The question of liability in the case of an
+
+accident has even been partly addressed, with a California ruling stating that the car itself can
+
+be the driver. This opens the way for companies like Google to assume liability in case of an
+
+accident, something they have always said they would do. This is an important step in removing
+
+responsibility from the owner, avoiding the issue of them being blamed for a crash caused by
+
+the car.</span></p>
+
+<p dir="ltr"><span>The problem here lies more with the specifics of the algorithms the cars will
+
+use in the case of accident. In</span><span> I, Robot</span><span>, the film spun out of
+
+Asimov&rsquo;s groundbreaking short story collection of the same name, Will Smith&rsquo;s
+
+character is saved from drowning instead of a young girl. The android that rescues him
+
+calculates his chance of surviving is 45% and the girl&rsquo;s 11%, deciding on balance to save
+
+him. This is known in ethics as the Trolley problem, and has been hotly debated since the late
+
+1960s. We might imagine a child running in front of a car carrying five people. If the car swerves
+
+and crashes, it puts the occupants in danger, but if it does not the child will be hit. The
+
+algorithms used in situations like this will need to be transparently developed and relentlessly
+
+tested before driverless cars are allowed to take to the road.</span></p>
+
+<p dir="ltr"><span><img src="asset/photos/driverless_car.jpg" align="left" hspace="20" alt="" /></span></p> <p dir="ltr"><span>Maybe it takes a pessimist to recognise the potential for danger in our
+
+creations. While it may be a measure that leads every industry affected crying foul if regulation
+
+slows progress, getting people thinking about the potential impacts can only be a good thing.
+
+When the risks are at best loss of life and at worst, as </span><span>Stephen Hawkings clearly
+
+feels</span><span>, destruction on a scale not threatened since the Cold War, the incentive
+
+must be found to look before we leap.</span></p>
+
+
+
+<p dir="ltr"><em><span>Written by Harry Lloyd</span></em></p>
+
+<p><span>&nbsp;</span></p>

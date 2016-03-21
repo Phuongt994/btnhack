@@ -1,0 +1,133 @@
+<p dir="ltr">Jack Hopkins is a PhD student at the University of Cambridge, who has been
+
+developing AI programmes that employ machine learning, in order to do something very human.
+
+Something more human than AlphaGo&rsquo;s intuition: poetry. As he explains, it is a tough
+
+challenge, but a surmountable one:</p>
+
+<p dir="ltr"><img src="asset/photos/aiinthestreet.jpg" hspace="300" alt="" />&nbsp;</p>
+
+<p dir="ltr">&ldquo;When it comes to employing creative language, humans have a massive
+
+advantage over machines. They are able to construct grammatical, sensible sentences; they
+
+have a wide range of things to talk about, and they experience joy and heartbreak.</p>
+
+<p dir="ltr">&nbsp;</p>
+
+<p dir="ltr">Although we cannot bestow emotion on machines, we can train them to construct
+
+sensible sentences by emulating biological nervous systems. We employ recurrent neural
+
+networks, trained on the entirety of wikipedia, to learn a grammar of the english language. We
+
+then sample the running network, in a process analogous to transcribing its dreams. This allows
+
+us to generate sequences of words which, although interesting, are not yet enough to be
+
+considered poetry.</p>
+
+<p dir="ltr">&nbsp;</p>
+
+<p><em><strong>"The loved sweet music moments on his chain,</strong></em><br
+
+/><em><strong>sat whilst upon pale stain and glenn,</strong></em><br /><em><strong>the
+
+castle whence my page and pain,</strong></em><br /><em><strong>no soft to see the history
+
+of men."</strong></em></p>
+
+<p><em>A poem by AI Jack</em></p>
+
+<p dir="ltr">Much of the aesthetic value in poetry is caused by the sound it makes when spoken
+
+aloud. Rhyme, rhythm, alliteration. None of which can be learned by examining the words of a
+
+language themselves, as the words are merely a notation for sound and meaning. Instead, we
+
+need to examine the sounds of the language. By training a neural network on the phonetics of
+
+existing poetry (39,000 lines of poetry in sonnet form), and allowing the model to 'babble' the
+
+sounds that it learns, we can start to extract lines that bear many similarities to human poetry.
+
+Although not complex enough to capture the nuances of human creativity, the model learns all
+
+of the aforementioned poetic devices, and may lead us towards indistinguishable machine
+
+poetry in the future.&rdquo;</p>
+
+<p dir="ltr"><em><strong>"Dost from their echoes in perpetual flow,</strong></em><br
+
+/><em><strong>white hands untorture sinks the numbered limbs.</strong></em><br
+
+/><em><strong>must even thee who hath no work follow,</strong></em><br
+
+/><em><strong>oh weary harp! her solace swims"</strong></em></p>
+
+<p dir="ltr"><em>A poem by AI Jack</em></p>
+
+<p dir="ltr">How does machine learning work, and what many machines actually learn? Well,
+
+few are poets, but most of us interact with learning AIs on an almost daily basis. A good
+
+example is e­mail. Spam filters perform an intelligent function insofar as they employ machine
+
+learning to keep away instant millionaire schemes, Russian women looking for kind Western
+
+husbands, and Nigerian Princes. Broadly, they do this by examining the e­mails that you, the
+
+user, designate as spam or not­spam, and break down their content into key features that can
+
+then be used to automatically filter incoming e­mail.</p>
+
+<p dir="ltr">&nbsp;</p>
+
+<p dir="ltr">This breed of AI, that does not try to mimic a real human brain, has proven
+
+incredibly commercially successful. The 1990s saw it applied to many specific tasks, from those
+
+in logistics to medical diagnosis; tasks in which value can be obtained from sifting through huge
+
+amounts of data intelligently. It saw the advent of virtual personal assistants Siri, Alexa and
+
+Cortana, and the death of the Microsoft paper clip thing.</p>
+
+<p dir="ltr">&nbsp;</p>
+
+<p dir="ltr">These assistants creep a little closer to a general artificial intelligence [intro]. In the
+
+case of &lsquo;narrow AI&rsquo;, like the spam filter, if the rules of the game were suddenly to
+
+change rather quickly &ndash; you have been chosen to get &pound;250 million into your HSBC
+
+account to help exiled royalty, something that most humans would instantly recognise as spam
+
+even if known keywords are absent &ndash; the AI will initially get the wrong answer. Although
+
+a learning algorithm may subsequently send the baloney peddlers to your spam folder if the you
+
+filter the first few manually, it has not taken the general sense of what a spam e­mail is, and
+
+applied this general understanding to new situations. The same is largely true of AlphaGo. It has
+
+been able to assign meaning to things it has experienced, a &nbsp;clear sign of intelligence but
+
+only within the framework of a game of Go. The next step will be to generalise between different
+
+environments, and assign meaning to experiences in many contexts ­ something which humans
+
+do effortlessly, but has racked up thousands of hours of coding on the programmers&rsquo;
+
+clocks.</p>
+
+<p>&nbsp;<img src="asset/photos/irobot_cmyk.jpg" hspace="300" alt="" /></p>
+
+<p dir="ltr"><em><strong>Detective:</strong> Human beings have dreams. Even dogs have
+
+dreams, but not you, you are just a machine. An imitation of life. Can a robot write a symphony?
+
+Can a robot turn a...canvas into a beautiful masterpiece?</em></p>
+
+<p dir="ltr"><em><strong>Sonny:</strong> Can you?</em></p>

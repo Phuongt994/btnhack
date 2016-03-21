@@ -1,0 +1,22 @@
+<p dir="ltr"><span>Most modern computers are &lsquo;von Neumann machines&rsquo;
+
+meaning that they shuttle data between a central processor and their core memory chips, an
+
+architecture more suited to number crunching than brain simulation. This sort of computer keep
+
+programs&rsquo; instructions as well as actual data</span><span> in read­write, random-
+access memory (RAM). In the late 1940s/1950s this was a big advancement over devices like
+
+Colossus, a military computer of the mid­1940s employed in wartime codebreaking, which were
+
+modified, &lsquo;programmed&rsquo;, by their users by physically setting switches and
+
+inserting leads in different places. Neither architecture is like that of a human brain however,
+
+though maybe evolution is more of a process of moving cables around than it is like a von
+
+Neumann machine. Instead, these methods suit number crunching on a much larger scale than
+
+we humans can hope for, and so could be said to perform a savant type of artificial intelligence.
+
+</span></p>

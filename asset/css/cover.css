@@ -1,0 +1,77 @@
+.link {
+  stroke: limegreen;
+  stroke-width: 0.20em;
+}
+
+.node text {
+  /*pointer-events: none;*/
+  font: 15px Helvetica;
+}
+
+body {
+  background-image: url("../../asset/photos/coverbackground.png");
+  background-image: cover;
+}
+
+.carousel .item {
+  height: 390px;
+  width: 100%;
+}
+
+#banner {
+  height: 400px;
+}
+
+#title {
+  top:80px;
+  text-align:right;
+  color: white;
+}
+
+#epilogue {
+  top:200px;
+  text-align:center;
+}
+
+#epilogue:hover {
+  color: white;
+}
+
+#navmap {
+  height: 300px;
+}
+
+#article {
+  height: 1000px;
+  background-image: url("../../asset/photos/coverbackground.png");
+  background-size: cover;
+  background-repeat: repeat;
+}
+
+#content {
+  margin: 50px;
+  padding: 100px;
+  /*background-color:black;*/
+  color: white;
+}
+
+#back {
+  width: 100px;
+  margin: auto;
+  color: white;
+}
+
+#back:hover {
+  size: 2em;
+  color: yellow;
+}
+
+#leadBtn {
+  font-size: 2em;
+  width: 400px;
+  margin-left: 300px;
+}
+
+a {
+  color: white;
+}

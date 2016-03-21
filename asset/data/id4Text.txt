@@ -1,0 +1,105 @@
+<p dir="ltr"><span>A rat scurries out of its hole and into an arena. It glances around, and in the
+
+dim light, can make out a circle of other holes, in each, the prospect of food. Sniff, sniff, the
+
+tantalising scent of a sugar pellet, the rat moves towards a burrow at the far end of the arena,
+
+then, bam, suddenly all the rat can feel is pure, un­cerebral terror. It bolts for home ­ all because
+
+Ruben Vale, a PhD student at the University of Cambridge has turned on a red light, albeit a red
+
+light that shines down a fibre optic cable straight into the brain of the rat. &ldquo;These neurons
+
+have been genetically modified by giving them a gene originally from bacteria,&rdquo; Ruben
+
+explains, &ldquo;making them light sensitive. Experiments like this show that the neurons we
+
+have targeted help govern fear related responses.&rdquo;</span></p>
+
+<p dir="ltr"><img src="asset/photos/Genetic_Brain.png" align="left" hspace="20" alt="" /></p>
+
+<p dir="ltr"><span>While in an artificial neural network, a programmer can exert control over
+
+neurons easily, even if their action is not always understood, with biology, biologists have spent
+
+decades coming up with innovative ways to manipulate brain cells. The logic is that, like ripping
+
+out parts of an aeroplane, you can work out what each thing does by breaking it or in the case
+
+of our rat, overusing it. &lsquo;Optogenetics&rsquo;, this strategy using light, has become a
+
+favourite tool but neurons can also be controlled thermo­genetically with hotplates and
+
+electrically with electrodes. Impressively, a recent landmark publication in
+
+</span><span>Nature</span><span> by a group lead by Professor Ali G&uuml;ler at the
+
+University of Virginia, that combined bits of human and bacterial genes, has demonstrated that
+
+we can engineer proteins that give us magnetic control over neurons. This means
+
+Ruben&rsquo;s rat would not need to be tethered by a fibre optic cable, but could freely roam.
+
+&ldquo;Magnetic control would also make it much easier to control neurons deep in the
+
+brain,&rdquo; Ruben says, &ldquo;previously, they have been the dark matter of
+
+neuroscience.&rdquo;</span></p>
+
+<p dir="ltr"><span><span>&nbsp;</span></span></p>
+
+<p dir="ltr"><span>In computer science, researchers have often tried similar things
+
+programmatically, ripping out neurons from small networks has sometimes given clues as to
+
+how they function, and what is necessary. But in contrast to the study of artificial neural
+
+networks, this occupies large swathes of the time of biologists and has become the bread and
+
+butter approach to studying circuits of neurons in live organisms from worms to mice.
+
+Unfortunately, ethics committees are not too keen on jellyfish genes making their way into
+
+human children, so whilst it has provided brain fodder for theorists it has not made waves on the
+
+clinical scene just yet. Having said that Linda Greensmith&rsquo;s group at University College
+
+London have transplanted stem cells with the necessary genes for optogenetics into mice with
+
+nerve injuries. Stem cells are malleable cells, which Greensmith and colleagues were able to
+
+induce to become neurons, and found they could make muscles over which the injured mouse
+
+had lost control contract using light. &ldquo;We were surprised at how well this worked,&rdquo;
+
+says Linda Greensmith candidly. </span></p>
+
+<p dir="ltr"><span><span>&nbsp;<img src="asset/photos/AIsurgery.jpg" align="left" hspace="20" alt=""
+
+/></span></span></p>
+
+<p dir="ltr"><span>AI can also have a direct medical applications,</span><span> outside of
+
+diagnosing patients</span><span>. The Key Laboratory for the Biological Effects of
+
+Nanomaterials in Beijing have used polymer nanofibers as the template for grooves which guide
+
+neuronal growth in straight lines: possibly over electrical appliances; possibly as an excellent
+
+robotic interface in prosthetics. These prosthetics would employ </span><span>learning
+
+algorithms</span><span> to decode the signals sent to Key&rsquo;s new nerve cells by the
+
+brain. Equally, the brain would learn how to use mock sensory information from the AI guided
+
+prosthetic. With two different kinds of innate intelligences working together, a patient who has
+
+lost a limb might have one restored. Whilst this is far removed from the intuition that AlphaGo
+
+has exhibited, so much so we might not intuitively think of it as AI, it is still a highly practical
+
+function.</span></p>
+
+<p><span>&nbsp;</span></p>
+
+<p><span>&nbsp;</span></p>

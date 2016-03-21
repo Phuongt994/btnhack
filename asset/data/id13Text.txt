@@ -1,0 +1,101 @@
+<p dir="ltr"><span>Brains use networks of brain cells to be clever, so, why can computers not?
+
+After all, if we try to simulate a brain with enough detail, will we not just create a
+
+brain?</span></p>
+
+<p dir="ltr"><span><span>&nbsp;</span></span></p>
+
+<p dir="ltr"><span>Artificial neural networks are connected arrays of computing units, usually
+
+implemented in software on conventional computers. They were originally simplified
+
+mathematical descriptions of real, biological neurons &ndash; the computing units of the brain,
+
+spinal cords and sensory and motor inlets of organismal nervous systems. Originally, models of
+
+neural function were simple by simple necessity. &nbsp;Individual &lsquo;neurons&rsquo; are
+
+often modelled as units that can either be &lsquo;on&rsquo;, and influencing connected neurons
+
+to which they output, or &lsquo;off&rsquo;, depending on the degree of input from their incoming
+
+connectors. This ignores many realities of biological neuronal function: the various types of
+
+stimulation one neuron can receive from another, how the morphology of a neuron changes the
+
+way it works, how they &lsquo;fire&rsquo; in &lsquo;spikes&rsquo; of activity with different
+
+patterns over space and time, how their connections change, and so on.</span></p>
+
+<p dir="ltr"><span><span><img src="asset/photos/3238821080_1f8796e581_o.png" hspace="300" alt=""
+
+/></span></span></p>
+
+<p dir="ltr">&nbsp;</p>
+
+<p dir="ltr"><em><span style="font­size: x­small;">A simple artificial neural network, with one
+
+'hidden layer' between its input and output units, which helps it to extract important information
+
+from what the user feeds into it.</span></em></p>
+
+<p dir="ltr"><span>Adding some of these details can make our artificial networks better. It can
+
+make them </span><span>learn</span><span> by changing how they connect in response to
+
+environmental cues. Donald Hebb&rsquo;s learning rule, which effectively states that neurons
+
+that &ldquo;fire together wire together&rdquo;, is the most commonly used method,
+
+strengthening connections between linked neurons that activate simultaneously. Learning can
+
+also be made to occur by </span><span>reinforcement</span><span>, with rewards and
+
+&lsquo;punishments&rsquo; given to a network for performing well or badly.</span></p>
+
+<p dir="ltr"><span><br /><span>Even strikingly simple neural structures can do seemingly
+
+incredible things. &nbsp;A &lsquo;perceptron&rsquo;, which in its simplest form is a single
+
+artificial neuron with two inputs, can distinguish between two simple scenarios &ndash; choose
+
+the pill blue or red? John Hopfield&rsquo;s interconnected, symmetric wheel of neurons can
+
+actually store &lsquo;associative memories&rsquo;. For every pattern of neurons a user
+
+activates in the wheel, a second new and unique pattern can be completed &ndash; that is
+
+essentially what your brain has done when I mentioned blue and red bills, it yielded an
+
+associated pattern of letters, </span><span>The Matrix</span><span>.
+
+Hopefully.</span></span></p>
+
+<p dir="ltr"><span><span>&nbsp;</span></span></p>
+
+<p dir="ltr"><span>Even strikingly simple neural structures can do seemingly incredible things.
+
+&nbsp;A &lsquo;perceptron&rsquo;, which in its simplest form is a single artificial neuron with
+
+two inputs, can distinguish between two simple scenarios &ndash; choose the pill blue or red?
+
+John Hopfield&rsquo;s interconnected, symmetric wheel of neurons can actually store
+
+&lsquo;associative memories&rsquo;. For every pattern of neurons a user activates in the
+
+wheel, a second new and unique pattern can be completed &ndash; that is essentially what
+
+your brain has done when I mentioned blue and red bills, it yielded an associated pattern of
+
+letters, </span><span>The Matrix</span><span>. Hopefully.</span></p>
+
+<p><img src="asset/photos/MatrixBluePillRedPill.jpg" hspace="300" alt="" /></p>
+
+<p><em><span style="font­size: x­small;"><strong>Morpheus:</strong> This is your last
+
+chance. After this, there is no turning back. You take the blue pill ­ the story ends, you wake up
+
+in your bed and believe whatever you want to believe. You take the red pill ­ you stay in
+
+Wonderland and I show you how deep the rabbit­hole goes.</span></em></p>

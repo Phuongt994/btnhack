@@ -1,0 +1,170 @@
+<p dir="ltr">Neurons are the electrical cells of the brain, spinal cord and sensory and motor
+
+&nbsp;systems of the body, and each is &ldquo;a tangled mess,&rdquo; explains Dr. Ben
+
+Suttcliffe, a neuroscientist who works at the Laboratory of Molecular Biology in Cambridge, the
+
+place where Francis Crick and James Watson solved the structure of DNA. &ldquo;They are not
+
+as clean as you see in biology textbooks, in reality they are a squishy, gelatinous conglomerate,
+
+not the dots and lines used to show artificial neural networks.&rdquo;</p>
+
+<p dir="ltr"><img src="asset/photos/faces.jpeg" align="left" hspace="20" alt=""
+
+/></p>
+
+<p dir="ltr"><em><span style="font­size: x­small;">An artistic biological and artificial neuron.
+
+Oran Maguire.</span></em></p>
+
+<p dir="ltr">Dr. Sutcliffe is part of a team that works on untangling circuits of neurons in the
+
+brains of the common fruit fly, Drosophila melanogaster. They do this by employing
+
+&lsquo;genetic GAL4 lines&rsquo;, which they can use to highlight the same, single neurons in
+
+different flies. Laboratories that make these lines, like that of Dr. Gerry Rubin at Janelia
+
+Research Campus in Virginia, take a gene from yeast, &lsquo;Gal4&rsquo;, and put it semi
+
+randomly into the genome. Bits of gene that it happens to fall next to turn it &lsquo;on&rsquo; or
+
+&lsquo;off&rsquo; in different cells. By chance, some of these will be single cells in the brain.
+
+Once &lsquo;on&rsquo;, GAL4 can turn on another foreign gene, a fluorescent protein originally
+
+obtained from jellyfish and, hey presto, Ben and Gerry can see their favourite neuron highlighted
+
+like a jellyfish against the inky backdrop of the brain. It is a painstaking process, and a decade
+
+of generating these lines has allowed to highlight neurons in about just half the fly brain. That is
+
+a brain with 100,000 neurons. Humans have about 86 billion. And it is very, very hard to see to
+
+what they connect.</p>
+<br><br>
+<p dir="ltr"><img src="asset/photos/BrainSlice.png" align="left" hspace="20" alt="" /></p>
+
+<p dir="ltr">Ruairi van Roberts is a masters student at University College London. For the past
+
+few months. The room he works in is cramped room, &nbsp;constricted with cables and
+
+radiating heat from humming machines clustered in the corners. It has been his cell for the past
+
+few months as he churns out data for this thesis. &ldquo;Neurons are electrical cells, and that
+
+has meant that many people think of them like computer components,&rdquo; says Ruairi, who
+
+prods at neurons in slices of brains from rats with electrodes for hours a day, &ldquo;so we
+
+can&rsquo;t just highlight them to understand them. We need to record from them. But they also
+
+compute within themselves, unlike neurons in most artificial networks. All those bits of cell
+
+&nbsp;a neuron has are doing lots of computational stuff that is not seen in most high­level
+
+artificial neural networks like DeepMind&rsquo;s algorithm. If a neuron is a car, then an artificial
+
+neuron is like a toy car ­ a drastic simplification.&rdquo;</p>
+
+<p dir="ltr">&nbsp;</p>
+
+<p dir="ltr">While not completely untrue of conventional computation, biological neural networks
+
+have to deal with problems of resource delivery and allocation, space constraints and energy
+
+conservation artificial neural network. &ldquo;Economics are really important for
+
+neurons,&rdquo; says Ruairi, &ldquo;They are very frugal.&rdquo; This has undoubtedly
+
+determined much of the physical layout, and therefore logic, of real nervous systems. Real
+
+neurons are also analog, with a continuous output scale, not digital and so binary like modern
+
+computers. &ldquo;In many ways their actual function more closely resembles the plumbing in
+
+your kitchen than the Mac in your study,&rdquo; Ruairi chuckles.</p>
+
+<p dir="ltr"><img src="asset/photos/drossmall.gif" align="left" hspace="10" alt="" /></p>
+<br>
+<br><br><br>
+<p dir="ltr"><em><span style="font­size: x­small;">Activity in the brain of a larval fly, imaged in
+
+the Keller group at Janelia Research Campus, Virginia.</span></em></p><br>
+
+<p dir="ltr">We can see this plumbing in action by adding in more foreign genes. Dr. Philipp
+
+Keller, also at Janelia Farm Research Campus, uses a technique called light sheet microscopy
+
+to illuminate all the neurons in a larval fly brain at once. Each has an active transplanted gene,
+
+that makes it glow when stimulated. Because the brain is transparent, we can see the activity of
+
+all neurons in a network at once. We can see the larva &lsquo;think&rsquo;. However, just as
+
+with looking at the activity in the deep neural networks of AlphaGo, the real problems come in
+
+trying to translate this into something we can understand. Keller is starting with some of the
+
+more simple problems ­ for example, when the larva is resting, he still sees lot of neurons
+
+activating. What does that mean? What are they processing? The resting state of a network
+
+could be doing many things, like repeating patterns of activity previously experienced, to really
+
+drill home what it has learned. Lessons like this, from biology, may continue to teach AI a thing
+
+or two.</p><br>
+<br><br><br>
+<p>&nbsp;<img src="asset/photos/roybattytearsinrain.jpg" align="left" hspace="20" alt="" /></p>
+
+<p><em><span style="font­size: x­small;"><strong>Tyrell:</strong> [Tyrell explains to Roy why
+
+he can't extend his lifespan] The facts of life... to make an alteration in the evolvement of an
+
+organic life system is fatal. A coding sequence cannot be revised once it's been
+
+established.</span></em><br /><em><span style="font­size: x­small;"><strong>Batty:</strong>
+
+Why not?</span></em><br /><em><span style="font­size: x­small;"><strong>Tyrell:</strong>
+
+Because by the second day of incubation, any cells that have undergone reversion mutation
+
+give rise to revertant colonies, like rats leaving a sinking ship; then the ship...
+
+sinks.</span></em><br /><em><span style="font­size: x­small;"><strong>Batty:</strong> What
+
+about EMS­3 recombination?</span></em><br /><em><span style="font­size: x-
+small;"><strong>Tyrell:</strong> We've already tried it ­ ethyl, methane, sulfinate as an
+
+alkylating agent and potent mutagen; it created a virus so lethal the subject was dead before it
+
+even left the table.</span></em><br /><em><span style="font­size: x-
+small;"><strong>Batty:</strong> Then a repressor protein, that would block the operating
+
+cells.</span></em><br /><em><span style="font­size: x­small;"><strong>Tyrell:</strong>
+
+Wouldn't obstruct replication; but it does give rise to an error in replication, so that the newly
+
+formed DNA strand carries with it a mutation ­ and you've got a virus again... but this, all of this
+
+is academic. You were made as well as we could make you.</span></em><br /><em><span
+
+style="font­size: x­small;"><strong>Batty:</strong> But not to last.</span></em><br
+
+/><em><span style="font­size: x­small;"><strong>Tyrell:</strong> The light that burns twice as
+
+bright burns half as long ­ and you have burned so very, very brightly, Roy. Look at you: you're
+
+the Prodigal Son; you're quite a prize!</span></em><br /><em><span style="font­size: x-
+small;"><strong>Batty:</strong> I've done... questionable things.</span></em><br
+
+/><em><span style="font­size: x­small;"><strong>Tyrell:</strong> Also extraordinary things;
+
+revel in your time.</span></em><br /><em><span style="font­size: x-
+small;"><strong>Batty:</strong> Nothing the God of biomechanics wouldn't let you into heaven
+
+for.</span></em></p>
+
+<p>&nbsp;</p>

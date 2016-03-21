@@ -1,0 +1,85 @@
+<p dir="ltr"><span>Garry Kasparav once publicly bragged that he would never lose a match, but
+
+in May 1997 the chess giant was toppled by by a sling­shot move in the critical match from
+
+IBM&rsquo;s DeepBlue, ultimately winning three out of five matches. Experts at the time
+
+chalked the machine&rsquo;s success down to a strange moment near the beginning of the first
+
+match where DeepBlue made a sacrifice that indicated a long­term strategy it never followed
+
+through. "It was an incredibly refined move, of defending while ahead to cut out any hint of
+
+countermoves," grandmaster Yasser Seirawan noted to </span><span>Wired</span><span> in
+
+2001, "and it sent Garry into a tizzy." Kasparov accused the DeepBlue team of cheating,
+
+suggesting that several master chess players had intervened on behalf of the computer, but was
+
+refused a re­match. A 2003 documentary, </span><span>Game Over: Kasparov and the
+
+Machine</span><span>,</span><span>suggested foul play to promote IBM&rsquo;s
+
+brand.</span></p>
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/gDe-uHsEMn8" frameborder="0" allowfullscreen></iframe>
+
+<p dir="ltr"><em><span style="font­size: x­small;">Came Over: Kasparov and the
+
+Machine</span></em></p>
+
+<p dir="ltr"><span>Compared with DeepMind&rsquo;s AlphaGo, DeepBlue was more
+
+&lsquo;human intensive&rsquo;. Between games, the engineers could modify and update the
+
+computer to patch any weaknesses that it began to show over a match. Like AlphaGo,
+
+DeepBlue had dedicated hardware to complete its task and levied a lot of processing power,
+
+computign 200 million positions per second, but unlike it DeepBlue was not a
+
+</span><span>learning machine [learning algorithms]</span><span>. Rather than
+
+demonstrating true intelligence in chess, DeepBlue was a feat of engineering. The strategists
+
+here were its creators, whereas AlphaGo is a strategist. It was also Kasparov­orientated,
+
+incorporating the logs from all the grandmaster's public games to help it beat that specific
+
+opponent. </span></p>
+
+<p dir="ltr"><span><span><img src="asset/photos/matrix_cmyk.jpg" height="300" width="400" hspace="300" alt=""
+
+/></span></span></p>
+
+<p dir="ltr">&nbsp;</p>
+
+<p dir="ltr"><em><strong><span style="font­size: x­small;">Agent
+
+Smith:&nbsp;</span></strong></em><em><span style="font­size: x­small;">Never send a
+
+human to do a machine's job.</span></em></p>
+
+<p dir="ltr"><span>At the time, as ever with AI, DeepBlue&rsquo;s victory was touted as the fall
+
+of man and also as </span><span>&lsquo;not real AI&rsquo; [Imaging AI]</span><span>.
+
+IBM&rsquo;s stocks soared. Fifteen years later and it is 2012. One of DeepBlue&rsquo;s
+
+designers interviews in the book </span><span>The Signal and the Noise</span><span>,
+
+reveals that the crucial, suspicious move on DeepBlue&rsquo;s match was actually the result of
+
+a bug. The machine was unable to select a move, and so chose one at random. Unfathomable
+
+by dumb luck, it threw Kasparov. Today&rsquo;s chess playing algorithms are housed as
+
+software, not dedicated hardware, and can beat a grandmaster off of your laptop. But in some
+
+ways, the early victories of these super chess players occurred because of weaknesses in the
+
+human psyche, for which there is no computer analogue, and which would not make sense to
+
+incorporate into efficient machines ­ such as fatigue, anxiety and stress. </span></p>
+
+<p><span>&nbsp;</span></p>

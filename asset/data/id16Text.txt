@@ -1,0 +1,19 @@
+  <p dir="ltr"><span>Although a visit to the casino may indicate otherwise, humans are remarkably good at 
+
+learning from their actions. Through the processes of trial­and­error, machines and humans
+
+can learn which actions lead to good outcomes. This process ­ known as reinforcement
+
+learning ­ lies at the heart of modern robotics, and is part of why AlphaGo was so successful.
+
+The beauty of reinforcement learning is determining the actions that have the greatest
+
+chance of getting good results by keeping track of the actions that lead to good outcomes.
+
+As a result of playing many hypothetical games at each step of the game, AlphaGo was able
+
+to learn the possibility of winning from the many actions it could take by projecting forward,
+
+as one might do in chess, and then take the action which gave it the best chance of winning.
+
+</span>

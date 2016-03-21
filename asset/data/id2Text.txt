@@ -1,0 +1,61 @@
+<p dir="ltr"><span>Modern technology has allowed us to gain much from incy wincy bits of
+
+mammal brain the size of a grain of sand. The burgeoning
+
+</span><span>connectionist</span><span> field has been using genetic techniques so
+
+highlight specific circuits of electrical cells that govern behaviours, neurons, with fluorescent
+
+jellyfish proteins and electrical techniques to see which brain areas influence which, and in so
+
+doing, try to draw up interaction webs. Doing this at extremely high resolution is, however, very
+
+difficult. Only one entire nervous system has ever been fully reconstructed at a sufficient
+
+resolution to account for all connections between all neurons, that of the
+
+&lsquo;worm&rsquo;</span><span>, Caenorhabditis elegans</span><span>. It took over 10
+
+years to fully trace the mere 302 neurons in this animal, and a second effort is half way through
+
+in a fruit fly larva, which has ~10,000 neurons. Another effort for the adult fly brain is on the
+
+drawing board, and has ~100,000 neurons. It is expected to take 500 man­years to complete.
+
+The human brain has about 86 billion neurons. Just to store that amount of data at such a
+
+resolution would take about a zettabyte. In real terms that is ~1,000 data centres of
+
+cr&egrave;me de la cr&egrave;me Backblaze data storage pods, which, stacked into four
+
+stories, would take up about the same area as downtown Cambridge.</span></p>
+
+<p dir="ltr"><span><span><img src="asset/photos/EM.gif" alt="" /></span></span></p>
+
+<p dir="ltr">&nbsp;</p>
+
+<p dir="ltr"><em><span style="font­size: x­small;">All the electron microscopy slices that
+
+comprise the nascent larval connectome, obtained by the Cardona group at Janelia Farm
+
+Research Campus.</span></em></p>
+
+<p dir="ltr"><span>Alex Bateson is a PhD student at the University of Cambridge, who has
+
+travelled all the way to Janelia Research Campus in Virginia to have a crack at tracing his very
+
+own bit of the larval brain. &ldquo;It&rsquo;s gruelling work, it&rsquo;s about six to eight hours a
+
+day at your laptop clicking at black and white [electron microscopy] images. In a week, maybe
+
+you have a couple of neurons complete. That&rsquo;s because we are looking for really small
+
+details,&rdquo; however, artificial neural networks like that employed by DeepMind&rsquo;s
+
+AlphaGo, &ldquo;don&rsquo;t need to use all that detail to do clever things. But, you know,
+
+perhaps somewhere in this difference between neurobiology and AI is the ghost in the
+
+machine.&rdquo;</span></p>
+
+<p><span>&nbsp;</span></p>

@@ -1,0 +1,42 @@
+{
+  "nodes":[
+    {"name":"Biology vs Bot","id":0,"group":1,"x":100,"y":200,"fixed":true},
+    {"name":"Building a biological brain","id":1,"group":2,"x":200,"y":100,"fixed":true},
+    {"name":"Connectomics","id":2,"group":2},
+    {"name":"Looking at real neurons","id":3,"group":2},
+    {"name":"Controlling neurons","id":4,"group":2},
+    {"name":"Neuromorphism","id":5,"group":1},
+    {"name":"Envisioning the future","id":6,"group":1},
+    {"name":"Impact on our lives","id":7,"group":1},
+    {"name":"Imagining true artificial intelligence","id":8,"group":3,"x":150,"y":350,"fixed":true},
+    {"name":"The fall of chess","id":9,"group":3},
+    {"name":"Intelligence through symbols","id":10,"group":3,"x":300,"y":450,"fixed":true},
+    {"name":"Conventional computers", "id":11,"group":3},
+    {"name":"Making machines learn", "id":12,"group":3},
+    {"name":"Artificial neural networks", "id":13, "group":3},
+    {"name":"Deep learning","id":14,"group":3},
+    {"name":"Evolving algorithms","id":15,"group":3},
+    {"name":"Reinforcement learning", "id":16,"group":3}
+  ],
+  "links":[
+    {"source":0,"target":1},
+    {"source":1,"target":2},
+    {"source":1,"target":3},
+    {"source":1,"target":4},
+    {"source":1,"target":5},
+    {"source":5,"target":6},
+    {"source":5,"target":13},
+    {"source":6,"target":7},
+    {"source":7,"target":8},
+    {"source":8,"target":10},
+    {"source":8,"target":12},
+    {"source":10,"target":11},
+    {"source":11,"target":12},
+    {"source":12,"target":13},
+    {"source":13,"target":14},
+    {"source":12,"target":15},
+    {"source":12,"target":16},
+    {"source":0,"target":8},
+    {"source":0,"target":9}
+  ]
+}

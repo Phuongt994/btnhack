@@ -1,0 +1,35 @@
+<p dir="ltr"><span>So, how &nbsp;can we get a cleverer neural net, especially when we are
+
+</span><span>not that sure how it actually works</span><span>? Well, how did biology do it?
+
+The human brain was carved by impassive millennia of evolution. We can improve artificial
+
+neural networks in the same way, quite literally evolving them by natural selection, taking the
+
+best bits of competing algorithms, and passing them on to new generations that continue to
+
+compete with one another. A bit of developmental biology can even be thrown into the mix, with
+
+some researchers claiming better performance if they allow neural networks to literally
+
+&lsquo;grow&rsquo; &ndash; branching out their connections and &lsquo;dividing&rsquo; like
+
+real cells over time, based on the activity level of each unit.</span></p>
+
+<p dir="ltr"><span><img src="asset/photos/heads_cmyk.jpg" hspace="300" alt="" /></span></p>
+
+<p dir="ltr"><span id="docs­internal­guid­70dac1ae­9428­126f­c466­d3aa863378d6"><br
+
+/><span>&ldquo;Evolving networks is a powerful thing,&rdquo; says Dr. Paul Bates, a group
+
+leader that works on protein networks in cancer cells at the new Francis Crick institute in
+
+London. &ldquo;In biology, real networks evolve like this, and in our analysis of them, we can
+
+evolve the artificial networks we use to study real ones. This way, you might not understand
+
+how either works in its entirety, but you start to see answers. So, effectively, we&rsquo;re
+
+</span><span>borrowing ideas from biology</span><span>, to understand those
+
+ideas.&rdquo;</span></span></p>

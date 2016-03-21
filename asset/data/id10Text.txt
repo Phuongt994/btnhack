@@ -1,0 +1,81 @@
+<p dir="ltr"><span>Mind and body are often completely uncoupled in computer science and
+
+robotics. A lot of the AI field has no real relationship with neuroscience, other than emergent
+
+high­level similarities. Though initially inspired by the brain, writing AI algorithms has very little to
+
+do with brain cells (other than the employment of the programmer&rsquo;s own grey matter!).
+
+The first AI systems therefore substituted biology for pure human cleverness.</span></p>
+
+<p dir="ltr"><span><span><img src="asset/photos/her­-cmyk.jpg" hspace="300" alt="" /></span></span></p>
+
+<p dir="ltr">&nbsp;</p>
+
+<p><em><span style="font­size: x­small;"><strong>Samantha:</strong> It's like I'm reading a
+
+book... and it's a book I deeply love. But I'm reading it slowly now. So the words are really far
+
+apart and the spaces between the words are almost infinite. I can still feel you... and the words
+
+of our story... but it's in this endless space between the words that I'm finding myself now. It's a
+
+place that's not of the physical world. It's where everything else is that I didn't even know
+
+existed. I love you so much. But this is where I am now. And this is who I am now. And I need
+
+you to let me go. As much as I want to, I can't live in your book any more.</span></em></p>
+
+<p dir="ltr"><span>A common approach has been to attempt to reduce human intelligence to a
+
+symbolic representation, and from this, build something like an general artificial intelligence. A
+
+symbolic representation is one that can be translated and made understandable by a human,
+
+and many of the AI programmes that employ them follow, essentially, &ldquo;if this, then this is
+
+this &ndash; if this, then do that&rdquo; rules. The success of these programmes in the mid
+
+1990s in developing AI systems that could answer geography questions posed naturally by
+
+humans, suggest chemical structures to organic chemists and diagnose infectious blood bourne
+
+diseases, eclipsed fledgling bio­inspired fields like cybernetics. </span></p>
+
+<p dir="ltr"><span><span>&nbsp;</span></span></p>
+
+<p dir="ltr"><span>Ultimately, incorporating greater generality like this has seen the evolution of
+
+Microsoft&rsquo;s paperclip into Microsoft&rsquo;s Cortana, and may yet see it through to
+
+something like </span><span>Samantha from the film </span><em>Her</em><span>. Fuelled
+
+by Moore&rsquo;s law, the theoretical two yearly doubling in computing power, these AIs could
+
+be extremely computationally powerful, as well as empathetically savvy. </span></p>
+
+<p dir="ltr"><span><span>&nbsp;</span></span></p>
+
+<p dir="ltr"><span>However sheer human cleverness cannot completely circumvent the aegis
+
+of biology. The general computation of the nervous system in learning from experience and
+
+transforming sensory input into motor output, is difficult for smart­bots to achieve in an
+
+organically intelligent way with purely symbolic AI. </span></p>
+
+<p dir="ltr"><span id="docs­internal­guid­f83236fe­9435­a092­acca­b56be7d71ef5"><img
+
+src="asset/photos/hospitaldummies_cmyk.jpg" hspace="300" alt="" /></span></p>
+
+<p dir="ltr"><span id="docs­internal­guid­f83236fe­9435­a092­acca­b56be7d71ef5"><br
+
+/><span>So maybe we need to move from a system where we can write and understand all the
+
+rules, even if the results surprise us, to one which is &lsquo;sub­symbolic&rsquo;, like
+
+</span><span>Ava from <em>Ex Machina</em></span><span>, whose operation cannot be
+
+read by humans, and can be as much of an enigma as the human brain
+
+itself.</span></span></p>

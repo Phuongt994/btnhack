@@ -1,0 +1,100 @@
+<p dir="ltr"><span>We have explored an interactive web that has tried to piece together the
+
+science behind </span><span>humanity&rsquo;s concession of the ancient Chinese game of
+
+Go to the a machine</span><span>. It is a story that has charted a course through both
+
+biological and computer sciences to arrive at something that encroaches upon a general
+
+artificial intelligence, that would emulate and likely exceed most human faculties, and offers the
+
+distant possibilities of &nbsp;the robotic futures of Isaac Asimov. To arrive where we have, we
+
+have had to compromise between </span><span>the biological properties of a
+
+neuron</span><span>, </span><span>leaving out a lot of the detail [simulating a real
+
+brain]</span><span> that make real brains real brains in favour of </span><span>pragmatic
+
+approaches&nbsp;</span><span>that do the high­level jobs of the brain quickly and following
+
+</span><span>similar rules [reinforcement learning]</span><span>, and </span><span>more
+
+powerfully</span><span>. However, much like t</span><span>he science fiction writer
+
+</span><span>has ever written an alien quality into their silver screen characters, embodied
+
+and disembodied automatons such as Chappie, Samantha, Sonny and Ava, the
+
+</span><span>power traditional computing </span><span>levies vast information processing
+
+capabilities to </span><span>new types of silicon brains </span><span>that otherwise could be
+
+very biological, and so maybe very human­like, in their operation. &nbsp;</span></p>
+
+<p dir="ltr"><span><span><span><img src="asset/photos/AIwhisper.jpg" align="left" hspace="20" alt=""
+
+/></span></span></span></p>
+
+<p dir="ltr"><span>As with any new technology, there are many concerns surrounding AI. Irving
+
+Good, who worked with Alan Turing in Bletchley Park, noted in 1965 that &ldquo;the first ultra-
+intelligent machine is the last invention that man need ever make&rdquo;, because from then on
+
+mankind&rsquo;s thinking can be outsourced. Should this technological singularity be reached
+
+the dangers are highly unlikely to deliver a </span><span>Matrix</span><span>­type situation.
+
+But it is something that very much worries people, including lauded physicist Stephen Hawking
+
+and tech entrepreneur Elon Musk, who signed an open letter against military AI research, calling
+
+it an &lsquo;existential threat&rsquo;. A commonly envisioned scenario is one in which such an
+
+AI does everything in its power to prevent being shut down so that it can continue improving its
+
+functionality. Interestingly, the reaction of the CEO of Demiurge, Idonae
+
+Lovetrue,</span><span>was to put out an advert to hire a science fiction writer. Why? She tells
+
+us that &ldquo;science fiction is one of the least invasive and most effective simulators to study
+
+and shape the multidimensional implications of AI technologies...it is crucial to thoroughly and
+
+responsibly test both [AI] technology via robotic simulators and its implications via such social
+
+simulators...&rdquo; </span></p>
+
+<p dir="ltr"><span><span><span>&nbsp;</span></span></span></p>
+
+<p dir="ltr"><span>But if Good is right then, given how much we have already outsourced to
+
+machines, the inevitable rise of AI from the new stepping stone DeepMind&rsquo;s AlphaGo
+
+has set down may well just be the advent of the end of thinking for us humans. Robotic arms
+
+rendering workers in car factories redundant may no longer surprise us, but in truth, even the
+
+&lsquo;creative industries&rsquo;, such as journalism are not safe from the job­stealing future
+
+AI employee. For example, what does a magazine editor do that cannot be built into an AI?
+
+They find stories, commission article, edit copy, source images, berate people, get berated and
+
+eventually die. An AI could do all that, it could search information on the Internet to find a hot
+
+topic, it could e­mail writers to pen what it finds interesting, it can certainly check the grammar in
+
+what they produce and easily detect plagiarism, it could find and modify open source images to
+
+even fit the style of Picasso if it so chose, and it it could hurl abuse for late submissions and
+
+concede its shortcomings to some human or AI up the editorial chain. Journalists are seeing
+
+their work fade out of print in the modern era, but as they move online they may well be moving
+
+from the frying pan and into the domain of the machine.</span></p>
+
+<p dir="ltr">&nbsp;</p>
+
+<p><span>&nbsp;</span></p>
