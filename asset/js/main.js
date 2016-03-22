@@ -31,7 +31,7 @@ var force = d3.layout.force()
     .linkStrength(0.05)
     .size([width, height]);
 
-d3.json("btnhack/asset/data/graph.json", function(error, json) {
+d3.json("../asset/data/graph.json", function(error, json) {
   if (error) throw error;
 
   var link = svg.selectAll(".link")
