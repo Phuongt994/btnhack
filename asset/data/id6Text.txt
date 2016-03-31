@@ -32,7 +32,7 @@ capabilities to </span><span>new types of silicon brains </span><span>that other
 
 very biological, and so maybe very human­like, in their operation. &nbsp;</span></p>
 
-<p dir="ltr"><span><span><span><img src="asset/photos/AIwhisper.jpg" align="left" hspace="20" alt=""
+<p dir="ltr"><span><span><span><img src="asset/photos/AIwhisper.jpg" align="left" class="img-responsive img-rounded" style="padding: 1em;" alt=""
 
 /></span></span></span></p>
 

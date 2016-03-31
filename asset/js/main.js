@@ -31,6 +31,7 @@ var force = d3.layout.force()
     .linkStrength(0.05)
     .size([width, height]);
 
+
 d3.json("https://phuongt994.github.io/btnhack/asset/data/graph.json", function(error, json) {
   if (error) throw error;
 
@@ -103,6 +104,9 @@ d3.json("https://phuongt994.github.io/btnhack/asset/data/graph.json", function(e
   d3.selectAll(".node circle").on("dblclick", function(d,i){
     for (i = 0; i <=16; i++) {
       if (d.id==i) {
+        if ($("#back").length) {
+          $("#article").remove("<h2 id='back' onclick='clickBack()'> Back </h2>");
+        };
         $("#title").empty();
         $("#title").hide().append("<h1>"+d.name+"</h1>").fadeIn(1000);
         $("#banner").delay(1500).slideUp(800, function() {
@@ -117,6 +121,9 @@ d3.json("https://phuongt994.github.io/btnhack/asset/data/graph.json", function(e
   d3.selectAll(".node text").on("dblclick", function(d,i){
     for (i = 0; i <=16; i++) {
       if (d.id==i) {
+        if ($("#back").length) {
+          $("#article").remove("<h2 id='back' onclick='clickBack()'> Back </h2>");
+        };
         $("#title").empty();
         $("#title").hide().append("<h1>"+d.name+"</h1>").fadeIn(1000);
         $("#banner").delay(1500).slideUp(800, function() {
@@ -129,6 +136,7 @@ d3.json("https://phuongt994.github.io/btnhack/asset/data/graph.json", function(e
 });
 
 $("#epilogue").append("<h2 class='medium'> Epilogue </h2>");
+$("#acknowledgements").append("<h3 class='medium'> Acknowledgements </h3>");
 // To write text
 function writeContent(idNo) {
   $.ajax({
@@ -141,10 +149,25 @@ function writeContent(idNo) {
 };
 
 function clickConcl() {
+  if ($("#back").length) {
+    $("#article").remove("<h2 id='back' onclick='clickBack()'> Back </h2>");
+  };
   $("#title").empty();
   $("#title").hide().append("<h1>Conclusion</h1>").fadeIn(1000);
   $("#banner").delay(1500).slideUp(800, function() {
     writeContent(6);
     $("#article").append("<h2 id='back' onclick='clickBack()'> Back </h2>");
+  });
+}
+
+function clickAckn() {
+  if ($("#back").length) {
+    $("#article").remove("<h2 id='back' onclick='clickBack()'> Back </h2>");
+  };
+  $("#title").empty();
+  $("#title").hide().append("<h1>Acknowledgements</h1>").fadeIn(1000);
+  $("#banner").delay(1500).slideUp(800, function() {
+    writeContent(17);
+  $("#article").append("<h2 id='back' onclick='clickBack()'> Back </h2>");
   });
 }

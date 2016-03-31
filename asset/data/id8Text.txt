@@ -36,7 +36,7 @@ film adroitly appreciates that true intelligence is a developmental process. One
 
 fully formed brain, after all.</span></p>
 
-<p dir="ltr"><span><span><img src="asset/photos/2001_cmyk.jpg" hspace="300" alt=""
+<p dir="ltr"><span><span><img src="asset/photos/2001_cmyk.jpg" class="img-responsive img-rounded" style="padding: 1em;" alt=""
 
 /></span></span></p>
 
@@ -83,7 +83,7 @@ IBM&rsquo;s Deep Blue over then reigning chess grandmaster Gary Kasparov in 1997
 
 that computers can operate within a framework of rules to super­human levels. </span></p>
 
-<p dir="ltr"><span><span><img src="asset/photos/AImanikins_cmyk.jpg" hspace="300" alt=""
+<p dir="ltr"><span><span><img src="asset/photos/AImanikins_cmyk.jpg" class="img-responsive img-rounded" style="padding: 1em;" alt=""
 
 /></span></span></p>
 

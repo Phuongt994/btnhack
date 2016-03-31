@@ -8,7 +8,7 @@ do with brain cells (other than the employment of the programmer&rsquo;s own gre
 
 The first AI systems therefore substituted biology for pure human cleverness.</span></p>
 
-<p dir="ltr"><span><span><img src="asset/photos/her­-cmyk.jpg" hspace="300" alt="" /></span></span></p>
+<p dir="ltr"><span><span><img src="asset/photos/her­-cmyk.jpg" class="img-responsive img-rounded" style="padding: 1em;" alt="" /></span></span></p>
 
 <p dir="ltr">&nbsp;</p>
 
@@ -66,7 +66,7 @@ organically intelligent way with purely symbolic AI. </span></p>
 
 <p dir="ltr"><span id="docs­internal­guid­f83236fe­9435­a092­acca­b56be7d71ef5"><img
 
-src="asset/photos/hospitaldummies_cmyk.jpg" hspace="300" alt="" /></span></p>
+src="asset/photos/hospitaldummies_cmyk.jpg" class="img-responsive img-rounded" style="padding: 1em;" alt="" /></span></p>
 
 <p dir="ltr"><span id="docs­internal­guid­f83236fe­9435­a092­acca­b56be7d71ef5"><br
 

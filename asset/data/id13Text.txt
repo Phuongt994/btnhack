@@ -28,7 +28,7 @@ way it works, how they &lsquo;fire&rsquo; in &lsquo;spikes&rsquo; of activity wi
 
 patterns over space and time, how their connections change, and so on.</span></p>
 
-<p dir="ltr"><span><span><img src="asset/photos/3238821080_1f8796e581_o.png" hspace="300" alt=""
+<p dir="ltr"><span><span><img src="asset/photos/3238821080_1f8796e581_o.png" class="img-responsive img-rounded" style="padding: 1em;" alt=""
 
 /></span></span></p>
 
@@ -90,7 +90,7 @@ your brain has done when I mentioned blue and red bills, it yielded an associate
 
 letters, </span><span>The Matrix</span><span>. Hopefully.</span></p>
 
-<p><img src="asset/photos/MatrixBluePillRedPill.jpg" hspace="300" alt="" /></p>
+<p><img src="asset/photos/MatrixBluePillRedPill.jpg" class="img-responsive img-rounded" style="padding: 1em;" alt="" /></p>
 
 <p><em><span style="font­size: x­small;"><strong>Morpheus:</strong> This is your last
 

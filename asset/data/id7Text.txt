@@ -18,7 +18,7 @@ some sort. To avoid these problems, thought must be paid to the legal status of 
 
 developments long before we are buying them off the shelves.</span></p>
 
-<p dir="ltr"><span><img src="asset/photos/PolicyBrain.png" hspace="300" alt="" /></span></p>
+<p dir="ltr"><span><img src="asset/photos/PolicyBrain.png" class="img-responsive img-rounded" style="padding: 1em;" alt="" /></span></p>
 
 <p dir="ltr"><span>For example, an increasing number of civilian drones and our steady
 
@@ -40,7 +40,7 @@ signing an open letter objecting to it, but the debate on civilian usage has bar
 
 begun.</span></p>
 
-<p dir="ltr"><span><img src="asset/photos/Old_brain.png" hspace="300" alt="" /></span></p>
+<p dir="ltr"><span><img src="asset/photos/Old_brain.png" class="img-responsive img-rounded" style="padding: 1em;" alt="" /></span></p>
 
 <p dir="ltr"><span>AI in the broad sense &nbsp;is already present in driverless vehicles. The
 
@@ -96,7 +96,7 @@ feels</span><span>, destruction on a scale not threatened since the Cold War, th
 
 must be found to look before we leap.</span></p>
 
-<p dir="ltr"><span><img src="asset/photos/driverless_car.jpg" hspace="300" alt="" /></span></p>
+<p dir="ltr"><span><img src="asset/photos/driverless_car.jpg" class="img-responsive img-rounded" style="padding: 1em;" alt="" /></span></p>
 
 <p dir="ltr"><em><span>Written by Harry Lloyd</span></em></p>
 

@@ -16,7 +16,7 @@ explains, &ldquo;making them light sensitive. Experiments like this show that th
 
 have targeted help govern fear related responses.&rdquo;</span></p>
 
-<p dir="ltr"><img src="asset/photos/Genetic_Brain.png" align="left" hspace="20" alt="" /></p>
+<p dir="ltr"><img src="asset/photos/Genetic_Brain.png" align="left" class="img-responsive img-rounded" style="padding: 1em;" alt="" /></p>
 
 <p dir="ltr"><span>While in an artificial neural network, a programmer can exert control over
 
@@ -74,7 +74,7 @@ had lost control contract using light. &ldquo;We were surprised at how well this
 
 says Linda Greensmith candidly. </span></p>
 
-<p dir="ltr"><span><span>&nbsp;<img src="asset/photos/AIsurgery.jpg" align="left" hspace="20" alt=""
+<p dir="ltr"><span><span>&nbsp;<img src="asset/photos/AIsurgery.jpg" align="left" class="img-responsive img-rounded" style="padding: 1em;" alt=""
 
 /></span></span></p>
 

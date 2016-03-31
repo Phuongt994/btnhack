@@ -16,7 +16,7 @@ some researchers claiming better performance if they allow neural networks to li
 
 real cells over time, based on the activity level of each unit.</span></p>
 
-<p dir="ltr"><span><img src="asset/photos/heads_cmyk.jpg" hspace="300" alt="" /></span></p>
+<p dir="ltr"><span><img src="asset/photos/heads_cmyk.jpg" class="img-responsive img-rounded" style="padding: 1em;" alt="" /></span></p>
 
 <p dir="ltr"><span id="docs­internal­guid­70dac1ae­9428­126f­c466­d3aa863378d6"><br
 

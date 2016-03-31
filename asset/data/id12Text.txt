@@ -6,7 +6,7 @@ Something more human than AlphaGo&rsquo;s intuition: poetry. As he explains, it 
 
 challenge, but a surmountable one:</p>
 
-<p dir="ltr"><img src="asset/photos/aiinthestreet.jpg" hspace="300" alt="" />&nbsp;</p>
+<p dir="ltr"><img src="asset/photos/aiinthestreet.jpg" class="img-responsive img-rounded" style="padding: 1em;" alt="" />&nbsp;</p>
 
 <p dir="ltr">&ldquo;When it comes to employing creative language, humans have a massive
 
@@ -122,7 +122,7 @@ do effortlessly, but has racked up thousands of hours of coding on the programme
 
 clocks.</p>
 
-<p>&nbsp;<img src="asset/photos/irobot_cmyk.jpg" hspace="300" alt="" /></p>
+<p>&nbsp;<img src="asset/photos/irobot_cmyk.jpg" class="img-responsive img-rounded" style="padding: 1em;" alt="" /></p>
 
 <p dir="ltr"><em><strong>Detective:</strong> Human beings have dreams. Even dogs have
 

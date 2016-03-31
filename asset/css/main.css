@@ -28,12 +28,12 @@ body {
   color: white;
 }
 
-#epilogue {
-  top:200px;
-  text-align:center;
+#acknowledgements, #epilogue {
+  top: 200px;
+  text-align: center;
 }
 
-#epilogue:hover {
+#epilogue:hover, #acknowledgements:hover {
   color: white;
 }
 

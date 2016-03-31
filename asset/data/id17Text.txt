@@ -1,0 +1,13 @@
+<h3> Acknowledgements </h3>
+<p style="font-size: 1em;"> First of all, we will take the chance to write our team name down, be it Cache The News, Justice League™, Guardians of the Galaxy™ or Peter Quill™ Wannabe.
+The team consists of Alex Bates whom graciously summoned his best writing skill to produce most articles available on this website,
+Julie Lee whom built the cover page and programmed a whimsical mini AI game that could be shown if you talk to her,
+and Phuong Tran whom somewhere still tweaks the code in Linux lab as you read this.</p>
+
+<p style="font-size: 1em;"> Secondly, we would like to thank various contributors including Harry Lloyd and Janina Anderbar as our Guest Writers;
+ Eliza Woolfson, FYI Khoo and Oran Maguire as Artists for our illustrations within the websites. </p>
+
+<p style="font-size: 1em;"> Last but not least, the project was built during the Build The News Hackathon organised by The Times on March 19th-20th 2016,
+and without them there would be no coffee and food for us to survive the weekend. </p>
+
+<p style="font-size: 1em;"> Source code is released <a href="https://github.com/Phuongt994"> here </a> and live website <a href="http://phuongt994.github.io/btnhack/"> here </a>. The project is updated occasionally. </p>

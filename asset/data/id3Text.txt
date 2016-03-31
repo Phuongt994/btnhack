@@ -10,7 +10,7 @@ as clean as you see in biology textbooks, in reality they are a squishy, gelatin
 
 not the dots and lines used to show artificial neural networks.&rdquo;</p>
 
-<p dir="ltr"><img src="asset/photos/faces.jpeg" align="left" hspace="20" alt=""
+<p dir="ltr"><img src="asset/photos/faces.jpeg" align="left" class="img-responsive img-rounded" style="padding: 1em;" alt=""
 
 /></p>
 
@@ -44,7 +44,7 @@ a brain with 100,000 neurons. Humans have about 86 billion. And it is very, very
 
 what they connect.</p>
 <br><br>
-<p dir="ltr"><img src="asset/photos/BrainSlice.png" align="left" hspace="20" alt="" /></p>
+<p dir="ltr"><img src="asset/photos/BrainSlice.png" align="left" class="img-responsive img-rounded" style="padding: 1em;" alt="" /></p>
 
 <p dir="ltr">Ruairi van Roberts is a masters student at University College London. For the past
 
@@ -117,7 +117,7 @@ drill home what it has learned. Lessons like this, from biology, may continue to
 
 or two.</p><br>
 <br><br><br>
-<p>&nbsp;<img src="asset/photos/roybattytearsinrain.jpg" align="left" hspace="20" alt="" /></p>
+<p>&nbsp;<img src="asset/photos/roybattytearsinrain.jpg" align="left" class="img-responsive img-rounded" style="padding: 1em;" alt="" /></p>
 
 <p><em><span style="font­size: x­small;"><strong>Tyrell:</strong> [Tyrell explains to Roy why
 

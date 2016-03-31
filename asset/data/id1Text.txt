@@ -18,7 +18,7 @@ some sort. To avoid these problems, thought must be paid to the legal status of 
 
 developments long before we are buying them off the shelves.</span></p>
 
-<p dir="ltr"><span><img src="asset/photos/PolicyBrain.png" align="left" hspace="20" alt="" /></span></p>
+<p dir="ltr"><span><img src="asset/photos/PolicyBrain.png" align="left" class="img-responsive img-rounded" style="padding: 1em;" alt="" /></span></p>
 
 <br><br><p dir="ltr"><span>For example, an increasing number of civilian drones and our steady
 
@@ -40,7 +40,7 @@ signing an open letter objecting to it, but the debate on civilian usage has bar
 
 begun.</span></p><br><br><br><br><br>
 
-<p dir="ltr"><span><img src="asset/photos/Old_brain.png" align="right" hspace="20" alt="" /></span></p>
+<p dir="ltr"><span><img src="asset/photos/Old_brain.png" align="right" class="img-responsive img-rounded" style="padding: 1em;" alt="" /></span></p>
 
 <p dir="ltr"><span>AI in the broad sense &nbsp;is already present in driverless vehicles. The
 
@@ -84,7 +84,7 @@ algorithms used in situations like this will need to be transparently developed 
 
 tested before driverless cars are allowed to take to the road.</span></p>
 
-<p dir="ltr"><span><img src="asset/photos/driverless_car.jpg" align="left" hspace="20" alt="" /></span></p> <p dir="ltr"><span>Maybe it takes a pessimist to recognise the potential for danger in our
+<p dir="ltr"><span><img src="asset/photos/driverless_car.jpg" align="left" class="img-responsive img-rounded" style="padding: 1em;" alt="" /></span></p> <p dir="ltr"><span>Maybe it takes a pessimist to recognise the potential for danger in our
 
 creations. While it may be a measure that leads every industry affected crying foul if regulation
 

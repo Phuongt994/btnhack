@@ -68,8 +68,7 @@ body {
 
 #leadBtn {
   font-size: 2em;
-  width: 400px;
-  margin-left: 300px;
+  width: auto;
 }
 
 a {
